@@ -1,4 +1,4 @@
-## Hi there 👋 Im a HUGE gamer, currently in school Leanrning programming. I can already tell i chose the right major because because i look forward to going home and putting everything I've learned to good use.  ANYWHO, Wish me Luck 
+## Hi there 👋 Im a HUGE gamer, currently in school Leanrning programming. I can already tell i chose the right major because i look forward to going home and putting everything I've learned to good use.  ANYWHO, Wish me Luck 
 
 <!--
 **JerronWeber/JerronWeber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
